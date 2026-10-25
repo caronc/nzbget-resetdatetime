@@ -1,0 +1,5 @@
+{
+  "about": "Nastaví datum změny stažených souborů na aktuální čas, aby se nová stažení řadila jako nová.",
+  "description": "Soubory uvnitř stažení si zachovávají data, se kterými byly zabaleny, a ta\nmohou být staré měsíce či roky. Přehrávače médií, které řadí podle „naposledy\npřidané“, pak vaše nová stažení zahrabou.\n\nResetDateTime nastaví datum změny každého staženého souboru na aktuální čas.\nNeúspěšná stažení zůstanou beze změny.\n\nPřesuňte jej na začátek seznamu Pořadí ve Správci rozšíření, aby se spustil\ndříve než cokoli, co soubory přesouvá nebo importuje.",
+  "requirements": "Toto rozšíření vyžaduje Python 3.8 nebo novější."
+}

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Made by build-extension.sh
+build/
+
+# Local tools and virtual environments
+.venv/
+venv/
+.tox/
+.ruff_cache/
+.pytest_cache/
+
+# Editors
+.vscode/
+.idea/
+*.swp

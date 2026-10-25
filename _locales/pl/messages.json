@@ -1,0 +1,5 @@
+{
+  "about": "Ustawia datę modyfikacji pobranych plików na bieżącą, aby nowe pobrania były sortowane jako nowe.",
+  "description": "Pliki w pobranej zawartości zachowują daty z chwili spakowania, a mogło to\nbyć nawet miesiące lub lata temu. Odtwarzacze multimediów sortujące według \"ostatnio\ndodanych\" spychają wtedy Twoje nowe pobrania na sam dół.\n\nResetDateTime ustawia datę modyfikacji każdego pobranego pliku na bieżącą.\nNieudane pobrania pozostają nietknięte.\n\nPrzenieś je na górę listy Kolejność w Menedżerze rozszerzeń, aby uruchamiało się\nprzed wszystkim, co przenosi lub importuje pliki.",
+  "requirements": "To rozszerzenie wymaga Pythona 3.8 lub nowszego."
+}

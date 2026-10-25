@@ -1,0 +1,5 @@
+{
+  "about": "A letöltött fájlok módosítási dátumát a jelenlegi időpontra állítja, így az új letöltések újként jelennek meg a rendezésben.",
+  "description": "A letöltésben lévő fájlok megtartják a becsomagoláskori dátumukat, ami\nakár hónapokkal vagy évekkel korábbi is lehet. A „nemrég\nhozzáadott” szerint rendező médialejátszók így elsüllyesztik az új letöltéseit.\n\nA ResetDateTime minden letöltött fájl módosítási dátumát a jelenlegi időpontra állítja.\nA sikertelen letöltéseket érintetlenül hagyja.\n\nHelyezze a Bővítménykezelő Sorrend listájának élére, hogy minden olyan\nművelet előtt fusson, amely áthelyezi vagy importálja a fájlokat.",
+  "requirements": "Ez a bővítmény Python 3.8 vagy újabb verziót igényel."
+}

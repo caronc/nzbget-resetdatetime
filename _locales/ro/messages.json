@@ -1,0 +1,5 @@
+{
+  "about": "Setează data modificării fișierelor descărcate la momentul actual, astfel încât descărcările noi să fie sortate ca fiind noi.",
+  "description": "Fișierele dintr-o descărcare își păstrează datele cu care au fost împachetate, iar acestea\npot fi vechi de luni sau chiar ani. Playerele media care sortează după \"adăugate\nrecent\" vă îngroapă astfel descărcările noi.\n\nResetDateTime setează data modificării fiecărui fișier descărcat la momentul actual.\nDescărcările eșuate sunt lăsate neatinse.\n\nMutați-o în partea de sus a listei Ordine din Managerul de extensii, astfel încât să ruleze\nînaintea oricărei acțiuni care mută sau importă fișierele.",
+  "requirements": "Această extensie necesită Python 3.8 sau mai nou."
+}

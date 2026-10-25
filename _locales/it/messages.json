@@ -1,0 +1,5 @@
+{
+  "about": "Imposta la data di modifica dei file scaricati al momento attuale, così i nuovi download vengono ordinati come nuovi.",
+  "description": "I file all'interno di un download mantengono le date con cui sono stati archiviati, che\npossono risalire a mesi o anni fa. I lettori multimediali che ordinano per \"aggiunti di\nrecente\" finiscono così per seppellire i tuoi nuovi download.\n\nResetDateTime imposta la data di modifica di ogni file scaricato al momento attuale.\nI download falliti non vengono toccati.\n\nSpostala in cima all'elenco Ordine del Gestore estensioni, così viene eseguita\nprima di qualsiasi cosa che sposti o importi i file.",
+  "requirements": "Questa estensione richiede Python 3.8 o versione successiva."
+}

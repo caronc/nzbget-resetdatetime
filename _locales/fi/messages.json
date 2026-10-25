@@ -1,0 +1,5 @@
+{
+  "about": "Asettaa ladattujen tiedostojen muokkauspäiväksi nykyhetken, jotta uudet lataukset lajitellaan uusina.",
+  "description": "Latauksen sisältämät tiedostot säilyttävät päivämäärät, joilla ne pakattiin, ja ne\nvoivat olla kuukausien tai vuosien takaa. Mediasoittimet, jotka lajittelevat \"äskettäin\nlisättyjen\" mukaan, hautaavat silloin uudet latauksesi.\n\nResetDateTime asettaa jokaisen ladatun tiedoston muokkauspäiväksi nykyhetken.\nEpäonnistuneisiin latauksiin ei kosketa.\n\nSiirrä se laajennusten hallinnan Järjestys-luettelon kärkeen, jotta se suoritetaan\nennen mitään, mikä siirtää tai tuo tiedostoja.",
+  "requirements": "Tämä laajennus vaatii Python 3.8:n tai uudemman."
+}

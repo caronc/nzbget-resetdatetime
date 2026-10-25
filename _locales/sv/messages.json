@@ -1,0 +1,5 @@
+{
+  "about": "Sätter ändringsdatumet för nedladdade filer till nu, så att nya nedladdningar sorteras som nya.",
+  "description": "Filer i en nedladdning behåller de datum de packades med, vilket\nkan vara månader eller år sedan. Mediaspelare som sorterar efter \"nyligen\ntillagda\" begraver då dina nya nedladdningar.\n\nResetDateTime sätter ändringsdatumet för varje nedladdad fil till nu.\nMisslyckade nedladdningar lämnas orörda.\n\nFlytta det till toppen av Ordning-listan i Tilläggshanteraren, så att det körs\nföre allt som flyttar eller importerar filerna.",
+  "requirements": "Det här tillägget kräver Python 3.8 eller senare."
+}

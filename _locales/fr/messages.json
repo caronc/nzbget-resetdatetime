@@ -1,0 +1,5 @@
+{
+  "about": "Définit la date de modification des fichiers téléchargés à l'instant présent, afin que les nouveaux téléchargements soient triés comme récents.",
+  "description": "Les fichiers d'un téléchargement conservent les dates de leur création dans l'archive,\nqui peuvent remonter à des mois, voire des années. Les lecteurs multimédias qui trient par « ajouts\nrécents » relèguent alors vos nouveaux téléchargements tout en bas.\n\nResetDateTime définit la date de modification de chaque fichier téléchargé à l'instant présent.\nLes téléchargements ayant échoué ne sont pas modifiés.\n\nPlacez-la en tête de la liste Ordre du gestionnaire d'extensions, afin qu'elle s'exécute\navant tout ce qui déplace ou importe les fichiers.",
+  "requirements": "Cette extension nécessite Python 3.8 ou une version plus récente."
+}

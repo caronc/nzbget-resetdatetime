@@ -1,0 +1,5 @@
+{
+  "about": "Setzt das Änderungsdatum heruntergeladener Dateien auf jetzt, damit neue Downloads als neu einsortiert werden.",
+  "description": "Dateien in einem Download behalten das Datum, mit dem sie gepackt wurden, was\nMonate oder Jahre zurückliegen kann. Mediaplayer, die nach „zuletzt\nhinzugefügt“ sortieren, lassen Ihre neuen Downloads dann untergehen.\n\nResetDateTime setzt das Änderungsdatum jeder heruntergeladenen Datei auf jetzt.\nFehlgeschlagene Downloads bleiben unverändert.\n\nVerschieben Sie es in der Reihenfolge-Liste des Erweiterungs-Managers ganz nach oben,\ndamit es vor allem anderen läuft, was die Dateien verschiebt oder importiert.",
+  "requirements": "Diese Erweiterung erfordert Python 3.8 oder neuer."
+}

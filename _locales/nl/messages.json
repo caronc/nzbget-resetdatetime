@@ -1,0 +1,5 @@
+{
+  "about": "Zet de wijzigingsdatum van gedownloade bestanden op nu, zodat nieuwe downloads als nieuw worden gesorteerd.",
+  "description": "Bestanden in een download behouden de datum waarop ze zijn ingepakt, en dat\nkan maanden of jaren geleden zijn. Mediaspelers die sorteren op \"recent\ntoegevoegd\" laten je nieuwe downloads dan onderaan wegzakken.\n\nResetDateTime zet de wijzigingsdatum van elk gedownload bestand op nu.\nMislukte downloads blijven ongemoeid.\n\nZet het bovenaan de Volgorde-lijst in Extensiebeheer, zodat het wordt\nuitgevoerd vóór alles wat de bestanden verplaatst of importeert.",
+  "requirements": "Deze extensie vereist Python 3.8 of nieuwer."
+}

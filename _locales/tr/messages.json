@@ -1,0 +1,5 @@
+{
+  "about": "İndirilen dosyaların değiştirilme tarihini şimdiye ayarlar, böylece yeni indirmeler yeni olarak sıralanır.",
+  "description": "Bir indirmenin içindeki dosyalar, paketlendikleri tarihleri korur ve bu\naylar hatta yıllar öncesi olabilir. \"Son eklenenler\"e göre sıralayan\nmedya oynatıcılar bu durumda yeni indirmelerinizi en alta gömer.\n\nResetDateTime, indirilen her dosyanın değiştirilme tarihini şimdiye ayarlar.\nBaşarısız indirmelere dokunulmaz.\n\nDosyaları taşıyan veya içe aktaran her şeyden önce çalışması için onu\nUzantı yöneticisindeki Sıra listesinin en üstüne taşıyın.",
+  "requirements": "Bu eklenti Python 3.8 veya daha yenisini gerektirir."
+}

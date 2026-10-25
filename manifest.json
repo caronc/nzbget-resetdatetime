@@ -1,0 +1,30 @@
+{
+    "main": "ResetDateTime.py",
+    "name": "ResetDateTime",
+    "homepage": "https://github.com/caronc/nzbget-resetdatetime",
+    "kind": "POST-PROCESSING",
+    "displayName": "ResetDateTime",
+    "version": "1.0.0",
+    "nzbgetMinVersion": "23.0",
+    "author": "Clinton Hall",
+    "license": "GPL-3.0-or-later",
+    "about": "Sets the modified date of downloaded files to now, so new downloads sort as new.",
+    "queueEvents": "",
+    "requirements": [
+        "This extension requires Python 3.8 or newer."
+    ],
+    "description": [
+        "Files inside a download keep the dates they were packed with, which",
+        "can be months or years ago. Media players that sort by \"recently",
+        "added\" then bury your new downloads.",
+        "",
+        "ResetDateTime sets the modified date of every downloaded file to now.",
+        "Failed downloads are left alone.",
+        "",
+        "Move it to the top of the Extension Manager's Order list, so it runs",
+        "before anything that moves or imports the files."
+    ],
+    "options": [],
+    "commands": [],
+    "taskTime": ""
+}

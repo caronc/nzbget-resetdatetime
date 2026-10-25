@@ -1,0 +1,5 @@
+{
+  "about": "Define a data de modificação dos ficheiros transferidos para agora, para que as novas transferências sejam ordenadas como novas.",
+  "description": "Os ficheiros dentro de uma transferência mantêm as datas com que foram empacotados, o que\npode ter sido há meses ou anos. Os leitores multimédia que ordenam por \"adicionados\nrecentemente\" acabam por enterrar as suas novas transferências.\n\nO ResetDateTime define a data de modificação de cada ficheiro transferido para agora.\nAs transferências falhadas não são alteradas.\n\nMova-o para o topo da lista Ordem do Gestor de Extensões, para que seja executado\nantes de qualquer coisa que mova ou importe os ficheiros.",
+  "requirements": "Esta extensão requer Python 3.8 ou mais recente."
+}

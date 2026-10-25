@@ -1,0 +1,5 @@
+{
+  "about": "Establece la fecha de modificación de los archivos descargados en el momento actual, para que las descargas nuevas se ordenen como nuevas.",
+  "description": "Los archivos de una descarga conservan las fechas con las que se empaquetaron, que\npueden ser de hace meses o años. Los reproductores multimedia que ordenan por «añadidos\nrecientemente» acaban enterrando tus descargas nuevas.\n\nResetDateTime establece la fecha de modificación de cada archivo descargado en el momento actual.\nLas descargas fallidas no se modifican.\n\nMuévelo al principio de la lista Orden del Gestor de extensiones, para que se ejecute\nantes que cualquier cosa que mueva o importe los archivos.",
+  "requirements": "Esta extensión requiere Python 3.8 o superior."
+}

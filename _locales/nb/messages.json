@@ -1,0 +1,5 @@
+{
+  "about": "Setter endringsdatoen for nedlastede filer til nå, slik at nye nedlastinger sorteres som nye.",
+  "description": "Filer i en nedlasting beholder datoene de ble pakket med, og disse\nkan være måneder eller år gamle. Mediespillere som sorterer etter «nylig\nlagt til», begraver da de nye nedlastingene dine.\n\nResetDateTime setter endringsdatoen for hver nedlastede fil til nå.\nMislykkede nedlastinger blir ikke rørt.\n\nFlytt den øverst i Rekkefølge-listen i utvidelsesbehandleren, slik at den kjører\nfør alt som flytter eller importerer filene.",
+  "requirements": "Denne utvidelsen krever Python 3.8 eller nyere."
+}

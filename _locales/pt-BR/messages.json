@@ -1,0 +1,5 @@
+{
+  "about": "Define a data de modificação dos arquivos baixados como agora, para que novos downloads sejam ordenados como novos.",
+  "description": "Os arquivos dentro de um download mantêm as datas em que foram compactados, o que\npode ter sido há meses ou anos. Players de mídia que ordenam por \"adicionados\nrecentemente\" acabam enterrando seus novos downloads.\n\nO ResetDateTime define a data de modificação de cada arquivo baixado como agora.\nDownloads com falha não são alterados.\n\nMova-o para o topo da lista Ordem do Gerenciador de Extensões, para que ele seja executado\nantes de qualquer coisa que mova ou importe os arquivos.",
+  "requirements": "Esta extensão requer Python 3.8 ou mais recente."
+}

@@ -1,0 +1,5 @@
+{
+  "about": "Sætter ændringsdatoen for downloadede filer til nu, så nye downloads sorteres som nye.",
+  "description": "Filer i en download beholder de datoer, de blev pakket med, hvilket\nkan være måneder eller år siden. Medieafspillere, der sorterer efter \"senest\ntilføjet\", begraver så dine nye downloads.\n\nResetDateTime sætter ændringsdatoen for hver downloadet fil til nu.\nMislykkede downloads røres ikke.\n\nFlyt den øverst i Udvidelsesmanagerens Rækkefølge-liste, så den kører\nfør alt, der flytter eller importerer filerne.",
+  "requirements": "Denne udvidelse kræver Python 3.8 eller nyere."
+}

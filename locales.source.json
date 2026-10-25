@@ -1,0 +1,14 @@
+{
+    "about": {
+        "message": "Sets the modified date of downloaded files to now, so new downloads sort as new.",
+        "description": "Short description of the ResetDateTime extension shown in settings."
+    },
+    "description": {
+        "message": "Files inside a download keep the dates they were packed with, which\ncan be months or years ago. Media players that sort by \"recently\nadded\" then bury your new downloads.\n\nResetDateTime sets the modified date of every downloaded file to now.\nFailed downloads are left alone.\n\nMove it to the top of the Extension Manager's Order list, so it runs\nbefore anything that moves or imports the files.",
+        "description": "Full description of the extension shown in settings. DO NOT translate 'ResetDateTime'."
+    },
+    "requirements": {
+        "message": "This extension requires Python 3.8 or newer.",
+        "description": "System requirements (each requirement is a separate string). DO NOT translate technical version strings (e.g., Python 3.8.x)."
+    }
+}
